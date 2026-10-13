@@ -4,7 +4,7 @@ Planification des recrutements — Direction des Ressources Humaines.
 
 ## Documents de référence
 
-- [Matrice GANTT multi-dossiers](references/GANTT-DYNAMIQUE-ISa-mis-a-jour.xlsx) — classeur Excel complet :
+- [Matrice GANTT multi-dossiers](references/MATRICE-GANTT-MULTI-DOSSIERS-V2.xlsx) — classeur Excel complet :
   - **Dossiers** : un dossier de recrutement par ligne (référence, nom, date de début, date CS, date Jury)
   - **Gantt** : diagramme de Gantt dynamique avec sélecteur de dossier (cellule C1)
   - **Tableau de bord** : vue synthétique de l'avancement par dossier
